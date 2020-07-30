@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "489089835792",
+    "firebase_url": "https://exercise-generator.firebaseio.com",
+    "project_id": "exercise-generator",
+    "storage_bucket": "exercise-generator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489089835792:android:be048933b11cadc175fb95",
+        "android_client_info": {
+          "package_name": "yang.xu.helen.exercise_generator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489089835792-i9km9i0ci9v7c52la5db5vbiarrt8h3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr_uA2Z4kGEBSndyBgXkWrBcLFG1E6SN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489089835792-i9km9i0ci9v7c52la5db5vbiarrt8h3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
